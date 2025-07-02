@@ -6,9 +6,9 @@ import webbrowser
 import urllib.parse
 
 # Spotify credentials
-CLIENT_ID = 'e1e73f45af8f445aa41af415bfaefdce'
-CLIENT_SECRET = 'ebbf33c071ea4e759026266116eb1843'
-REDIRECT_URI = 'http://127.0.0.1:8888/callback'
+CLIENT_ID = 'your CLIENT_ID '
+CLIENT_SECRET = 'your CLIENT_SECRET'
+REDIRECT_URI = '...'
 SCOPE = 'playlist-read-private'
 
 # Initialize Spotify API
